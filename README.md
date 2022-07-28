@@ -1,2 +1,3 @@
 # first-day-repo
-stu4
+This repository contains Student bio html and practice done on July 27 2022
+
